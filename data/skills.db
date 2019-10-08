@@ -1,0 +1,34 @@
+{"name":"Illusion / Sleight","governingAttributes":["PER","DEX"],"type":"Active","description":"The ability to place, steal, and manipulate items without detection","_id":"0MGbmLUXVUKTxjU8"}
+{"name":"Ephemera","governingAttributes":["INT","PER"],"type":"Passive","description":"Skill with the use of temporary magical effects","_id":"2jhLIIIjRt9UvDxH"}
+{"name":"Meditation","governingAttributes":["PER","END"],"type":"Active","description":"Skill with understanding your own mind and body; reduces the negative effects of ephemera, and improves recovery time when actively practiced","_id":"3AOWZyiy5Pzb6qqa"}
+{"name":"Persuasion","governingAttributes":["PER","INT"],"type":"Active","description":"Skill with speech, persuasion, and rhetorical argument; improves dialogic skills","_id":"3zXoYVYcCBGvamY5"}
+{"name":"Engineering","governingAttributes":["INT","PER"],"type":"Passive","description":"Understanding of physics and construction, useful for the creation and maintenance of weapons, traps, bridges, and shelters","_id":"67yMpiSwfWUmFs1M"}
+{"name":"Marksmanship","governingAttributes":["DEX","PER"],"type":"Combat","description":"Accuracy with thrown or projectile weapons","_id":"69Sq6RfZjNf8KiMH"}
+{"name":"Sprinting","governingAttributes":["MOV"],"type":"Movement","description":"Overall speed and agility of movement on foot","_id":"9k7QnN6YqENxxoGo"}
+{"name":"Wrestling","governingAttributes":["STR","END"],"type":"Combat","description":"Grappling skill, useful for hand-to-hand combat, disarming opponents, restraining enemies, and parrying melee attacks","_id":"AGUpJ9Oiyj2bJZnl"}
+{"name":"Staves expertise","governingAttributes":["DEX","STR"],"type":"Combat","description":"Skill with long staves, spears, or other pole-arms","_id":"APqpeTAwSAIevrbX"}
+{"name":"Boxing","governingAttributes":["STR"],"type":"Combat","description":"Skill with unarmed fighting","_id":"BZk4uVQpvesG0z7D"}
+{"name":"Comprehension","governingAttributes":["INT","END"],"type":"Passive","description":"Ability to understand skill books, maps, blueprints, and other written material","_id":"CnwgAs6ZCZ3Mtsl6"}
+{"name":"Stealth","governingAttributes":["PER","DEX"],"type":"Passive","description":"Ability to hide, or complete tasks undetected","_id":"G7BtSCya6OF6KMev"}
+{"name":"Heavy Sword","governingAttributes":["STR","DEX"],"type":"Combat","description":"Skill with two handed blades, and blades weighing 4lbs or more","_id":"GyEz39el64IRaoc7"}
+{"name":"Tinkering","governingAttributes":["PER","DEX"],"type":"Active","description":"Skill with tools and modifications, allowing the repair, improvement, or construction of various items","_id":"IS9hvtZs3RQiode9"}
+{"name":"Lockpicking","governingAttributes":["PER","DEX"],"type":"Active","description":"The ability to pick locks, crack safes, or otherwise access secured rooms and containers","_id":"Krwugi95JtBXLtvb"}
+{"name":"Intimidation","governingAttributes":["PER","INT"],"type":"Active","description":"The ability to incite fear and apprehension in others; used to persuade or incite others","_id":"MgeBqx3oc5ZXyzOm"}
+{"name":"Light Sword","governingAttributes":["DEX","STR"],"type":"Combat","description":"Skill with blades larger than 12 inches, but weighing less than 4lbs","_id":"OwMxPHDcITeuhvk2"}
+{"name":"Knife Expertise","governingAttributes":["DEX"],"type":"Combat","description":"Skill with the use of blades smaller than 12 inches; also used for carving and crafting","_id":"R6NHvIpluXhnk7zh"}
+{"name":"Distance Running","governingAttributes":["END"],"type":"Movement","description":"Personal aerobic endurance, affecting the ability to do more for longer","_id":"RI8IeMlHMDLW6F0S"}
+{"name":"Animal Lore","governingAttributes":["INT","PER"],"type":"Passive","description":"Understanding of animal behavior, allowing the detection, evasion, and taming or provocation of animal species","_id":"YUNOAJBAfPwkq3ku"}
+{"name":"Shield Expertise","governingAttributes":["END","STR"],"type":"Combat","description":"Skill with blocking and deflecting using personal shields","_id":"aEZpRF1mPrbY9UDD"}
+{"name":"Stealth movement","governingAttributes":["PER","DEX"],"type":"Movement","description":"The ability to climb, sneak, run, and attack without detection","_id":"dgk4YKQ83Z1yjgxG"}
+{"name":"Gymnastics","governingAttributes":["MOV","DEX"],"type":"Movement","description":"The ability to precisely and quickly control ones body, affecting height and distance of jumping, balance, and skill with evasion and navigation of small spaces","_id":"jIUYyuSvrAHaBq5T"}
+{"name":"Translation","governingAttributes":["INT","PER"],"type":"Active","description":"Skill with reading, writing, and interpreting other languages","_id":"jZxMfZUOhH0vFdtT"}
+{"name":"Detection","governingAttributes":["PER","INT"],"type":"Passive","description":"Ability to detect traps, clues, opponents, or other hidden items","_id":"mH92TSVfa6VdlHZo"}
+{"name":"Anatomy","governingAttributes":["INT","END"],"type":"Passive","description":"Knowledge of the internal workings of humanoid species.Improves efficacy of non-magic healing, and provides better critical strikes in combat","_id":"oO5VRLVu5CZznCly"}
+{"name":"Resist Magic","governingAttributes":["INT","END"],"type":"Passive","description":"Natural resistance to magical effects","_id":"opkYzwLwB4LZebTn"}
+{"name":"Salvage","governingAttributes":["PER","STR"],"type":"Active","description":"Comprehension of the workings of everyday items, allowing for the effective recovery of useful items and parts","_id":"qgvZlZm1KQKijq6A"}
+{"name":"Dodge","governingAttributes":["MOV","PER"],"type":"Movement","description":"The ability to read opponents and your environment, accurately predicting areas of danger, and moving yourself from harm","_id":"rsDtfGk9nYOmzN43"}
+{"name":"Perma","governingAttributes":["INT","PER"],"type":"Passive","description":"Skill with permanent magic effects","_id":"vCsPqsuh5sRVFo6q"}
+{"name":"Climbing","governingAttributes":["END","STR"],"type":"Movement","description":"The ability to climb objects and structures, finding hand and foot holds where others may not","_id":"vn8jKJhNXInbF2h1"}
+{"name":"Distraction","governingAttributes":["PER"],"type":"Active","description":"The ability to draw attention from others, and direct it at will, through speech and actions","_id":"wGonYugx4s6dw09G"}
+{"name":"Axemanship","governingAttributes":["STR","DEX"],"type":"Combat","description":"Skill with axes and hammers; also used for woodcutting","_id":"wrFagCHENTypspEA"}
+{"name":"Healing","governingAttributes":["PER","INT"],"type":"Active","description":"Skill with bandages, splints, sutures, and other non-magic healing practices","_id":"x28BPHLWddyIdqNi"}
